@@ -6,6 +6,8 @@ The Skill Tokenization Platform is a decentralized application (DApp) that enabl
 
 ## Contract Address
 0x2466A8075f9066136e996c79d0CFB54884eF87b5
+![image](https://github.com/user-attachments/assets/28e70caa-cf4d-41da-8868-18352f4aa907)
+
 
 ## Key Features
 1. **Skill Creation**: Users can tokenize their skills with a name, description, and price.
